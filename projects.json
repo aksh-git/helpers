@@ -3,14 +3,14 @@
         {
             "title":"Word Search",
             "decp":"Word Search is a game, in this there is a grid of alphabets, by using those alphabets you have to make meaningful words, this uses Dictionary API to validate  words.",
-            "tools":"HTML, CSS ,JS",
+            "tools":"JS, Dictionary API",
             "projectURL":"https://aksh-git.github.io/wordsearch",
             "imageURL":"https://www.dropbox.com/s/obiutfos5d6tshh/word-search.png?raw=1"
         },
         {
             "title":"Chess Online",
             "decp":"Have fun challenging the computers !!",
-            "tools":"Javascript",
+            "tools":"JS, cheesboard.js",
             "projectURL":"https://aksh-git.github.io/chess/",
             "imageURL":"https://raw.githubusercontent.com/aksh-git/chess/master/assets/chess-banner.png"
         }
