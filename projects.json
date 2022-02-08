@@ -6,6 +6,13 @@
             "tools":"HTML, CSS ,JS",
             "projectURL":"https://aksh-git.github.io/wordsearch",
             "imageURL":"https://www.dropbox.com/s/obiutfos5d6tshh/word-search.png?raw=1"
+        },
+        {
+            "title":"Chess Online",
+            "decp":"Have fun challenging the computers !!",
+            "tools":"Javascript",
+            "projectURL":"https://aksh-git.github.io/chess/",
+            "imageURL":"https://raw.githubusercontent.com/aksh-git/chess/master/assets/chess-banner.png"
         }
     ]
 }
