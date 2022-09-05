@@ -21,5 +21,12 @@
             "projectURL":"https://github.com/aksh-git/",
             "imageURL":"https://raw.githubusercontent.com/aksh-git/helpers/main/images/wb_logo_with_author_gaming.png"
         }
+        ,{
+            "title":"RPC",
+            "decp":"A simple Rock Paper Scissors with game.",
+            "tools":"javascript",
+            "projectURL":"https://aksh-git.github.io/SPC/projects/rock_paper_scissors/",
+            "imageURL":"https://raw.githubusercontent.com/aksh-git/SPC/master/projects/rock_paper_scissors/assets/rpc.png"
+        }
     ]
 }
