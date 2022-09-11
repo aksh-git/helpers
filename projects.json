@@ -28,5 +28,12 @@
             "projectURL":"https://aksh-git.github.io/SPC/projects/rock_paper_scissors/",
             "imageURL":"https://raw.githubusercontent.com/aksh-git/SPC/master/projects/rock_paper_scissors/assets/rpc.png"
         }
+        ,{
+            "title":"Weather-App",
+            "decp":"A simple weather app by using javascript and OpenWeatherMap-API ",
+            "tools":"JS, OpenWeatherMap-API",
+            "projectURL":"https://github.com/aksh-git/weather-app",
+            "imageURL":""
+        }
     ]
 }
