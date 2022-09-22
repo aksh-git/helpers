@@ -14,6 +14,13 @@
             "projectURL":"https://aksh-git.github.io/chess/",
             "imageURL":"https://raw.githubusercontent.com/aksh-git/chess/master/assets/chess-banner.png"
         },
+        ,{
+            "title":"SiME-App",
+            "decp":"A simple image editing (SiME) tool designed by using next.js to help you edit you images very simply and easily.",
+            "tools":"Next.js",
+            "projectURL":"https://sime-akash.netlify.app/",
+            "imageURL":"https://raw.githubusercontent.com/aksh-git/helpers/main/images/sime_banner.png"
+        },
         {
             "title":"Aider",
             "decp":"A Whatsapp bot with a lot of tools to help you with a lots of your daily tasks just by chatting and make more esay managing groups.",
